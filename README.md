@@ -3,7 +3,7 @@ STEMFIE adaptation to Escornabot
 
 Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilitat Stemfie.
 
-Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges Escornabot/Logo3senseFons.png" width="50" />
+Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="ImatgesEscornabot/Logo3senseFons.png" width="50" />
 
 Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
 
