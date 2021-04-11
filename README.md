@@ -1,15 +1,16 @@
-# Escornabot-STEMFIE
-STEMFIE adaptation to Escornabot 
+# Escornabot-STEMFIE <img src="ImatgesEscornabot/UnderConstruction.png" width="50" />
+
+Escornabot with STEMFIE compability 
 
 Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilitat Stemfie.
 
-Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges Escornabot/Logo3senseFons.png" width="50" />
+Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="ImatgesEscornabot/Logo3senseFons.png" width="50" />
 
-Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
+STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Escornabot-Stemfie/tree/main/Doc).
 
-STL per imprimir (https://github.com/maynej/Escornabot-Stemfie).
+STL per imprimir [aquí](https://github.com/maynej/Escornabot-Stemfie).
 
 ## Suports 3D
   
@@ -23,4 +24,4 @@ Suport Sensor HC-SR04 |![](ImatgesEscornabot/SensorDistancia.png) | [HC-SR04 Sim
 
 ## Llicència
 
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
