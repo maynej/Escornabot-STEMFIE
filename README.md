@@ -1,5 +1,6 @@
-# Escornabot-STEMFIE
-STEMFIE adaptation to Escornabot 
+# Escornabot-STEMFIE <img src="ImatgesEscornabot/UnderConstruction.png" width="50" />
+
+Escornabot with STEMFIE compability 
 
 Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilitat Stemfie.
 
