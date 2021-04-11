@@ -6,7 +6,7 @@ Electronics Stemfie es una llibreria STL de suports per tarjes de control, senso
 
 Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="ImatgesEscornabot/Logo3senseFons.png" width="50" />
 
-STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
+STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="ImatgesEscornabot/LogoSTEMFIE.png" width="100" />
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Escornabot-Stemfie/tree/main/Doc).
 
@@ -24,4 +24,4 @@ Suport Sensor HC-SR04 |![](ImatgesEscornabot/SensorDistancia.png) | [HC-SR04 Sim
 
 ## Llicència
 
-Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
+Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="ImatgesEscornabot/CC.png" width="100" />
