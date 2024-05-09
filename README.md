@@ -8,7 +8,7 @@ Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Stud
 
 STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="ImatgesEscornabot/LogoSTEMFIE.png" width="100" />
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Escornabot-Stemfie/tree/main/Doc).
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Escornabot-Stemfie/tree/main/DOC).
 
 STL per imprimir [aquí](https://github.com/maynej/Escornabot-Stemfie).
 
