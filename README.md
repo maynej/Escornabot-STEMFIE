@@ -22,6 +22,10 @@ Suport Servo-motor SG9 |![](ImatgesEscornabot/ServoMotor.png) | [ServoSuport 3H]
 Suport palanca Servo-motor SG9 |![](ImatgesEscornabot/Adapter.png) |[Adapter SG9](STL/Servo9GAdapter_Stemfie.stl)
 Suport Sensor HC-SR04 |![](ImatgesEscornabot/SensorDistancia.png) | [HC-SR04 Simetric 3H](STL/SensorAsimetric3H_Stemfie.stl) 
 
+## QR
+
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FEscornabot-STEMFIE&s=6&e=m"/>
+
 ## Llicència
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="ImatgesEscornabot/CC.png" width="100" />
